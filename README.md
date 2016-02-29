@@ -1,2 +1,2 @@
-# newlocal
-Everything you need to set up a new local environment w/ Vagrant, Git, PHPStorm, and Magento
+# Windows & Vagrant
+Everything you need to set up a new local environment w/ Vagrant, Git, phpStorm, and Magento
